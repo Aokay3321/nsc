@@ -3,7 +3,10 @@ package com.javatpoint.beans;
 public class Emp {  
 private int id;  
 private String name;  
-private float salary;  
+private float salary; 
+
+
+
 private String designation;  
   
 public int getId() {  

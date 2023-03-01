@@ -1,5 +1,10 @@
 package com.javatpoint.beans;
 
+
+
+
+
+
 public class Empinfo {
 	private String firstname;
 	private String employeeid;
